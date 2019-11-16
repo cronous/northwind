@@ -1,4 +1,4 @@
-
+{ products:
 [
 	{
 		"productID" : 4,
@@ -925,3 +925,4 @@
 		"name" : "Original Frankfurter grüne Soße"
 	}
 ]
+}
